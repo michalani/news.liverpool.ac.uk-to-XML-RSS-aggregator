@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>News Liverpool RSS Feed</title>
+        <link>http://www.example.com/rss</link>
+        <description>News Aggregated from news.liverpool.ac.uk</description>
+        <language>en-US</language>
+        <lastBuildDate>Sun, 14 Jun 2020 16:26:46 GMT</lastBuildDate>
+        <generator>rfeed v1.1.1</generator>
+        <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+        <item>
+            <title>New episode of ‘The Coping with COVID’ podcast now available</title>
+            <link>https://news.liverpool.ac.uk/2020/06/12/new-episode-of-the-coping-with-covid-podcast-now-available/</link>
+            <description>In the latest episode of ‘The Coping with COVID’ podcast Dr Helen West is joined by a nursing student who has been redeployed to work in the NHS as part of the UK response to COVID-19.</description>
+            <pubDate>Fri, 12 Jun 2020 01:40:00 GMT</pubDate>
+            <guid isPermaLink="true">https://news.liverpool.ac.uk/2020/06/12/new-episode-of-the-coping-with-covid-podcast-now-available/</guid>
+        </item>
+        <item>
+            <title>The University of Liverpool Maths School set to open autumn 2020</title>
+            <link>https://news.liverpool.ac.uk/2020/06/12/the-university-of-liverpool-maths-school-set-to-open-autumn-2020/</link>
+            <description>Plans are in place to open the University of Liverpool Maths School (ULMaS) this autumn with the recruitment of teaching staff, a formal funding agreement approved and refurbishment of accommodation underway.</description>
+            <pubDate>Fri, 12 Jun 2020 10:46:00 GMT</pubDate>
+            <guid isPermaLink="true">https://news.liverpool.ac.uk/2020/06/12/the-university-of-liverpool-maths-school-set-to-open-autumn-2020/</guid>
+        </item>
+        <item>
+            <title>Effects of lockdown on our climate targets</title>
+            <link>https://news.liverpool.ac.uk/2020/06/11/effects-of-lockdown-on-our-climate-targets/</link>
+            <description>With COVID-19 lockdown bringing about a reduction in carbon emissions, Professor Ric Williams, Chair in Ocean Sciences and APVC for Research &amp; Impact for Science and Engineering, considers how this affects our progress towards climate targets:</description>
+            <pubDate>Thu, 11 Jun 2020 03:48:00 GMT</pubDate>
+            <guid isPermaLink="true">https://news.liverpool.ac.uk/2020/06/11/effects-of-lockdown-on-our-climate-targets/</guid>
+        </item>
+        <item>
+            <title>Survey shines a spotlight on barriers to diversity in STEM</title>
+            <link>https://news.liverpool.ac.uk/2020/06/11/survey-shines-a-spotlight-on-barriers-to-diversity-in-stem/</link>
+            <description>New research has highlighted some of the barriers faced by individuals from minority groups when it comes to pursuing a career in science.</description>
+            <pubDate>Thu, 11 Jun 2020 02:48:00 GMT</pubDate>
+            <guid isPermaLink="true">https://news.liverpool.ac.uk/2020/06/11/survey-shines-a-spotlight-on-barriers-to-diversity-in-stem/</guid>
+        </item>
+        <item>
+            <title>Study identifies signs of acute pancreatitis not seen prior to COVID-19 pandemic</title>
+            <link>https://news.liverpool.ac.uk/2020/06/11/study-identifies-signs-of-acute-pancreatitis-not-seen-prior-to-covid-19-pandemic/</link>
+            <description>A new Liverpool study, published in Gastroenterology, identifies the signs of COVID-19 related pancreatitis which will enable earlier diagnosis and allow for swifter referral and management.
+As the global pandemic of severe acute respiratory syndrome coronavirus 2(SARS-CoV2) persists, details of how the disease affects humans continue to emerge.</description>
+            <pubDate>Thu, 11 Jun 2020 08:54:00 GMT</pubDate>
+            <guid isPermaLink="true">https://news.liverpool.ac.uk/2020/06/11/study-identifies-signs-of-acute-pancreatitis-not-seen-prior-to-covid-19-pandemic/</guid>
+        </item>
+        <item>
+            <title>Gladstone Hall renaming</title>
+            <link>https://news.liverpool.ac.uk/2020/06/10/gladstone-hall-renaming-2/</link>
+            <description>Gladstone Hall is part of the University of Liverpool’s Greenbank site which was demolished and recently rebuilt. Discussions between the University and its Guild of Students around naming this Hall have been in progress for some time.</description>
+            <pubDate>Wed, 10 Jun 2020 01:11:00 GMT</pubDate>
+            <guid isPermaLink="true">https://news.liverpool.ac.uk/2020/06/10/gladstone-hall-renaming-2/</guid>
+        </item>
+        <item>
+            <title>Liverpool medical students graduate in virtual ceremony</title>
+            <link>https://news.liverpool.ac.uk/2020/06/09/liverpool-medical-students-graduate-in-virtual-ceremony/</link>
+            <description>The University of Liverpool’s School of Medicine Class of 2020 have graduated as junior doctors and received personal thanks for their efforts during the Covid-19 crisis from England’s Chief Medical Officer, Professor Chris Whitty.</description>
+            <pubDate>Tue, 09 Jun 2020 10:20:00 GMT</pubDate>
+            <guid isPermaLink="true">https://news.liverpool.ac.uk/2020/06/09/liverpool-medical-students-graduate-in-virtual-ceremony/</guid>
+        </item>
+        <item>
+            <title>Invasive rushes spreading in upland farm fields</title>
+            <link>https://news.liverpool.ac.uk/2020/06/09/invasive-rushes-spreading-in-upland-farm-fields/</link>
+            <description>A new study involving University of Liverpool ecologists shows invasive native species of rushes are spreading across UK upland farms and have the potential to threaten wildlife and the livelihoods of farmers.</description>
+            <pubDate>Tue, 09 Jun 2020 08:57:00 GMT</pubDate>
+            <guid isPermaLink="true">https://news.liverpool.ac.uk/2020/06/09/invasive-rushes-spreading-in-upland-farm-fields/</guid>
+        </item>
+        <item>
+            <title>Professor Tom Solomon launches Scouse Science coronavirus podcast</title>
+            <link>https://news.liverpool.ac.uk/2020/06/09/professor-tom-solomon-launches-scouse-science-coronavirus-podcast/</link>
+            <description>Award-winning science communicator, doctor and infectious diseases researcher Professor Tom Solomon is launching a new video podcast series looking at COVID-19 and its impact on science and society in Liverpool.</description>
+            <pubDate>Tue, 09 Jun 2020 05:58:00 GMT</pubDate>
+            <guid isPermaLink="true">https://news.liverpool.ac.uk/2020/06/09/professor-tom-solomon-launches-scouse-science-coronavirus-podcast/</guid>
+        </item>
+        <item>
+            <title>Study to explore experiences of end-of-life care during the COVID-19 pandemic</title>
+            <link>https://news.liverpool.ac.uk/2020/06/09/study-to-explore-experiences-of-end-of-life-care-during-the-covid-19-pandemic/</link>
+            <description>The University has launched a new study to gather information from bereaved relatives and health and social care professionals regarding end-of-life care during the COVID-19 pandemic,</description>
+            <pubDate>Tue, 09 Jun 2020 05:55:00 GMT</pubDate>
+            <guid isPermaLink="true">https://news.liverpool.ac.uk/2020/06/09/study-to-explore-experiences-of-end-of-life-care-during-the-covid-19-pandemic/</guid>
+        </item>
+    </channel>
+</rss>
