@@ -1,5 +1,5 @@
 import datetime 
-from rfeed import *
+from rfeed import Guid,Item,Feed
 import requests
 link="https://news.liverpool.ac.uk/category/press-release/"
 articles_list = []
@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 
 def getArticleSummary(article_link,headline):
     r2 = requests.get(article_link)
-    soup2 = BeautifulSoup(r2.text)
+    soup2 = BeautifulSoup(r2.text,features="html.parser")
     i = 1
     publication_date = soup2.find('time')['datetime']
     data2 = soup2.findAll('p')[i]
@@ -28,7 +28,7 @@ def getArticleSummary(article_link,headline):
 
 def getTitles(link):
     r = requests.get(link)
-    soup = BeautifulSoup(r.text)
+    soup = BeautifulSoup(r.text,features="html.parser")
     if(r.status_code == 200):
         data = soup.findAll('a',attrs={'class':'news_post'})
         current = 0
