@@ -8,7 +8,7 @@ Sample of the output:
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>News Liverpool RSS Feed</title>
-        <link>http://www.example.com/rss</link>
+        <link>https://news.liverpool.ac.uk/category/press-release/</link>
         <description>News Aggregated from news.liverpool.ac.uk</description>
         <language>en-US</language>
         <lastBuildDate>Sun, 14 Jun 2020 16:26:46 GMT</lastBuildDate>
