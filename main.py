@@ -43,7 +43,7 @@ getTitles(link)
 
 feed = Feed(
     title = "News Liverpool RSS Feed",
-    link = "http://www.example.com/rss",
+    link = link,
     description = "News Aggregated from news.liverpool.ac.uk",
     language = "en-US",
     lastBuildDate = datetime.datetime.now(),
